@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+header::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: greenyellow;
+    background-image: url(../image\ 1.png);
+    height: 100vh;
+    width: 100vw;
+    display: block;
+    z-index: -10;
+
+}
+
+h1{
+    font-family: 'Montserrat';
+    font-weight: 800;
+    font-size: 72px;
+    color: green;
+    text-align: center;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 250;
+    font-size: 18px;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    font-size: 25px;
+
+}
