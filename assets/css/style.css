@@ -6,7 +6,7 @@ header::before{
     top: 0;
     left: 0;
     background-color: greenyellow;
-    background-image: url(../image\ 1.png);
+    background-image: url(../css/image\ 2.jpg);
     height: 100vh;
     width: 100vw;
     display: block;
@@ -18,7 +18,7 @@ h1{
     font-family: 'Montserrat';
     font-weight: 800;
     font-size: 72px;
-    color: green;
+    color: white;
     text-align: center;
 }
 
@@ -26,17 +26,35 @@ h2{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 800;
     font-size: 30px;
+    color: white;
+    text-align: center;
 }
 
 p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 250;
     font-size: 18px;
+    color: white;
+    
 }
 
 h3{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: 800;
     font-size: 25px;
+    color: white;
+    text-align: center;
+
+}
+a{
+    color: green;
+    
+}
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    font-size: 25px;
+    color: white;
+    text-align: center;
 
 }
